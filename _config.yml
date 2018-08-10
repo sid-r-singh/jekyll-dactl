@@ -7,7 +7,7 @@ url                          : "taikkyithar.github.io" # the base hostname & pro
 blog:
   title                      : Taikkyi Thar
   description                  : >
-                               this should contain a proper description
+                               Personal Blog
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
@@ -26,15 +26,15 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : Taikkyi Thar
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
+  mail                      : bloggertaikkyithar@email.com # change to your e-mail address
+  twitter                   : taikkyitar
+  github                    : taikkyithar
   youtube                   : youtube-user-name
   stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
-  google_analytics          : # 'UA-XXXXXXXX-X'
+  disqus                    :  # your disqus site name
+  google_analytics          : # 'UA-123771906-1'
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"
 
