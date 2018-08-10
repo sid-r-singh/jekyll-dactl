@@ -1,7 +1,7 @@
 # Base blog settings
-baseurl                      : "/taikkyitar.github.io" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "/taikkyithar.github.io" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "taikkyitar.github.io" # the base hostname & protocol for your site
+url                          : "taikkyithar.github.io" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
