@@ -49,3 +49,8 @@
     <!-- Post content -->
     {{ post.content | remove: '&lt;!–-break-–&gt;' }}
 </article>
+
+<div class="post">{{ content }}</div>
+
+<!-- Comments will go underneath the post -->
+{% include comments.html %}
