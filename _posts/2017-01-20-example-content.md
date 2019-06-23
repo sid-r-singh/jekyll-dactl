@@ -20,7 +20,7 @@ LAMP ဆိုတာကေတာ့ Linux, Apache, MySQL, and PHP ပဲျဖ�
 
 အရင္ဆံုးက်ေနာ္တို့ရဲ့စက္ကို update တစ္ခ်က္လုပ္ေပးပါ။
 
-(/assets/lamp1.png)
+(/assets/img/lamp1.png)
 
 apt-get update
 
@@ -28,16 +28,23 @@ apt-get update
 
 apt-get install apache2
 
+(/assets/img/lamp2.png)
+
 MySQL database ကို install လုပ္ပါမည္။
 
 apt-get install mysql-server
 
+(/assets/img/lamp3.png)
+
 mysql server install လုပ္ေနခ်ိန္တြင္ mysql password ေပးခိုင္းပါလိမ့္မည္။မိမိတို့ အသံုးျပုမည့္ password ထည့္ေပးလိုက္ပါ။
 
+(/assets/img/lamp4.png)
 
 က်ေနာ္တို့အသံုးျပုမည့္ MySQL ပိုမိုလံုျခံုေစရန္ secure installation လုပ္ေပးရန္လိုပါသည္။command line မွရိုက္ေပးလိုက္ပါ။
 
 mysql_secure_installation
+
+(/assets/img/lamp5.png)
 
 Change the root password? [Y/n] n
  Remove anonymous users? [Y/n] Y
@@ -51,10 +58,14 @@ Change the root password? [Y/n] n
 
 apt-get install php5 php-pear php5-mysql
 
+(/assets/img/lamp6.png)
+
 က်ေနာ္တို့ apache,mysql,php စတာေတြကိုအကုန္ install လုပ္ျပီးသြားပါျပီ။Server မွာ apache service ေတြအလုပ္မလုပ္သိဖို့အတြက္ apache ကို restart ခ်ျကည့္လိုက္ပါ။command line ကေန run ေပးပါ။
 
 service apache2 restart
 browser ကေန မိမိရဲ့ vps ip သို့မဟုတ္ local မွာ install လုပ္တာဆိုရင္ localhost စသည္ျဖင့္ ေခါ္ျပီးျကည့္နိုင္ပါသည္။
+
+(/assets/img/lamp7.png)
 
 
 LAMP သြင္းရာတြင္အခက္အခဲမ်ားရွိပါက က်ေနာ္ ရဲ့ Facebook Page ကေနတစ္ဆင့္ဆက္သြယ္ေမးျမန္းနိုင္ပါသည္။
