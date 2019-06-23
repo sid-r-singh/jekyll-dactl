@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Example content
+title: How to install LAMP on Debian
+
 tags:
-  - jekyll
-  - dactl
+  - lamp
+  - linux
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content
-  supported in this theme.
-hero: https://source.unsplash.com/collection/145103/
+  LAMP ဆိုတာကေတာ့ Linux, Apache, MySQL, and PHP ပဲျဖစ္ပါတယ္။ LAMP ကေတာ့ open source web development platform အတြက္ျဖစ္ျပီးေတာ့ Linux Operation system ေပါ္မွာ Apache Web Server,MySQL Data management system,PHP object-oriented scripting language ေပါင္းစည္းျပီးအသံုးျပုထားတာပဲျဖစ္ပါတယ္။တစ္ခါတေလမွာ Perl or Python တို့ကိုလည္းအသံုးျပုတက္ျကပါသည္
+hero: https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a
 overlay: green
 published: true
 ---
