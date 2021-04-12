@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to install LAMP on Debian
+title: How to cooly install LAMP on Debian
 
 tags:
   - lamp
